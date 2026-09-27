@@ -1,0 +1,15 @@
+C:\Users\Packet Of Crips\source\repos\Lab 2\Lab 2\obj\Debug\net10.0\Lab 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Packet Of Crips\source\repos\Lab 2\Lab 2\obj\Debug\net10.0\Lab 2.AssemblyInfoInputs.cache
+C:\Users\Packet Of Crips\source\repos\Lab 2\Lab 2\obj\Debug\net10.0\Lab 2.AssemblyInfo.cs
+C:\Users\Packet Of Crips\source\repos\Lab 2\Lab 2\obj\Debug\net10.0\Lab 2.csproj.CoreCompileInputs.cache
+C:\Users\Packet Of Crips\source\repos\Lab 2\Lab 2\bin\Debug\net10.0\Lab 2.exe
+C:\Users\Packet Of Crips\source\repos\Lab 2\Lab 2\bin\Debug\net10.0\Lab 2.deps.json
+C:\Users\Packet Of Crips\source\repos\Lab 2\Lab 2\bin\Debug\net10.0\Lab 2.runtimeconfig.json
+C:\Users\Packet Of Crips\source\repos\Lab 2\Lab 2\bin\Debug\net10.0\Lab 2.dll
+C:\Users\Packet Of Crips\source\repos\Lab 2\Lab 2\bin\Debug\net10.0\Lab 2.pdb
+C:\Users\Packet Of Crips\source\repos\Lab 2\Lab 2\obj\Debug\net10.0\Lab 2.dll
+C:\Users\Packet Of Crips\source\repos\Lab 2\Lab 2\obj\Debug\net10.0\refint\Lab 2.dll
+C:\Users\Packet Of Crips\source\repos\Lab 2\Lab 2\obj\Debug\net10.0\Lab 2.pdb
+C:\Users\Packet Of Crips\source\repos\Lab 2\Lab 2\obj\Debug\net10.0\Lab 2.genruntimeconfig.cache
+C:\Users\Packet Of Crips\source\repos\Lab 2\Lab 2\obj\Debug\net10.0\ref\Lab 2.dll
+C:\Users\Packet Of Crips\source\repos\Lab 2\Lab 2\obj\Debug\net10.0\Lab 2.csproj.Up2Date
